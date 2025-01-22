@@ -1,0 +1,32 @@
+#FASTA Sorting by Adenine Count
+
+
+##English
+
+###Description
+This Python script processes all FASTA files in a specified folder, counts the number of adenines (A) in each DNA sequence, and sorts the sequences in descending order based on the adenine count.
+
+###Features
+Scans all FASTA files in a folder.
+Counts the number of adenines (A) in each sequence.
+Sorts and displays the sequences by adenine count in descending order.
+Shows the sequence ID, adenine count, file name, and the sequence itself.
+
+###Requirements
+To run this script, you need Python installed along with the Biopython library. You can install the required libraries using:
+pip install -r requirements.txt
+
+##Español
+
+###Descripción
+Este script en Python procesa todos los archivos FASTA en una carpeta especificada, cuenta la cantidad de adeninas (A) en cada secuencia de ADN y ordena las secuencias en orden descendente según el conteo de adeninas.
+
+###Funcionalidades
+Escanea todos los archivos FASTA en una carpeta.
+Cuenta el número de adeninas (A) en cada secuencia.
+Ordena y muestra las secuencias por conteo de adeninas en orden descendente.
+Muestra el ID de la secuencia, el conteo de adeninas, el nombre del archivo y la secuencia completa.
+
+###Requisitos
+Para ejecutar este script, necesitas tener Python instalado junto con la biblioteca Biopython. Puedes instalar las bibliotecas necesarias con:
+pip install -r requirements.txt
